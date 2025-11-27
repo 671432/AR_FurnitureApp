@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.13f1
+CRC: 1679900612
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce5077cc6f84faa1e9b9e10a4d375352
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 756c782b9b6ee152b0d33e7b9fa049d2
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 90901176d5f526e8dde0ec564bee9bad
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Chest/Chest.prefab
+Dependencies: []
