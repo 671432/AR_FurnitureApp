@@ -6,7 +6,7 @@ Course: [AR Development Techniques 04: Advanced Techniques](https://www.linkedin
 
 - chapter 2 only (each chapter is its own project)
 
-- current version asks for camera permissions, but background stays black.
+- current version Delete obj button doesn't work.
 
 # Install / run info
 
