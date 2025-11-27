@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.13f1
-CRC: 1142354033
+CRC: 1279727416
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1fc6e0518a71b94352e57ed97e707b08
+    Hash: 9487412fd86d31099bb018a5a24f7dd6
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 756c782b9b6ee152b0d33e7b9fa049d2
+    Hash: 1dbb6d99035cf260dd82665c084559eb
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0bee8d0c96336c97b7d04e0d8e1ee01b
+    Hash: 444c6574ae76c0b36e8525a31c6e27f4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -29,7 +29,23 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers: []
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 02e37bf9d23704849b6d4bb2fae198be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc7c91b26689a054d88448aba6dfe424, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 835437351c929ca45a9ae48461964dd4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: LeanCommon
+  ClassName: Lean.Common.LeanSelectable/LeanSelectEvent
+- AssemblyName: LeanTouch
+  ClassName: Lean.Touch.LeanFingerFilter
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
 Assets:
 - Assets/Shelf/Shelf.prefab
 Dependencies: []
